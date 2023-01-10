@@ -40,4 +40,9 @@
     - [Breaking Circuit](./plonk/arithmetization/breaking_circuit.md)
     - [Gate Constraints](./plonk/arithmetization/gate_constraints.md)
     - [Copy Constraints](./plonk/arithmetization/copy_constraints.md)
-
+- [Halo 2 for Dummies](./halo2_for_dummies/chapter.md)
+  <!-- - [Overview](./halo2_for_dummies/overview/section.md) -->
+  - [PLONKish Arithemetization](./halo2_for_dummies/plonkish/section.md)
+    - [A Simple Arithmetic Circuit](./halo2_for_dummies/plonkish/simple_arithmetic_circuit.md)
+    - [Transforming to PLONKish Arithmetization](./halo2_for_dummies/plonkish/transforming_to_plonkish_arithmetization.md)
+  - [A Simple Halo 2 Program](./halo2_for_dummies/simple_example/section.md)
